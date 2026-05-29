@@ -2,7 +2,6 @@
 
 /* Fill in your Name and GNumber in the following two comment fields
  * Name: Mubashar Ikram
- * GNumber: G01476721
  */
 
 #include <sys/wait.h>
